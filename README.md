@@ -1,1 +1,1 @@
-costools_wrapper provides a simple way to run COStools SplitTag and run the CalCOS pipeline for the purpose of creating time series 1-D spectra. It handles managing output directories and allows for optionally turning off DQICORR and deleting non-x1d files after running CalCOS
+costools_wrapper provides a simple way to run COStools SplitTag and run the CalCOS pipeline for the purpose of creating time series 1-D spectra. It handles managing output directories and allows for optionally turning off DQICORR and deleting non-x1d files when running CalCOS
